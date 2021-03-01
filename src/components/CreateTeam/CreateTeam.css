@@ -1,0 +1,15 @@
+.team-details1{
+    padding:8px;
+    height:380px;
+    width:230px;
+    border-radius: 5px;
+    margin:0 auto;
+    margin-left:35px;
+    background-color: #1042cabd;
+    margin-bottom: 20px;
+}
+.team-details1 img{
+    height:200px;
+    width:100%;
+    box-sizing: border-box;
+}

@@ -1,0 +1,43 @@
+*{
+   
+  margin: 0;
+  padding:0;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+}
+.players-card{
+    height:573px;
+    width:100%;
+    padding:5px;
+    line-height: 1.5;
+    text-align:left;
+    background-color:#1042cabd;
+    margin-right: 8px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    box-sizing: border-box;
+
+   
+}
+.players-card img{
+    height:185px;
+    width:100%;
+    box-sizing: border-box;
+}
+.team-details{
+    display:flex;   
+}
+p{
+    font-size:18px;
+    font-weight: 500;
+    margin:0;
+    color:rgb(225, 228, 231);
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+.players-info{
+    height:516px;
+}
+.mb{
+    margin-bottom: 5px;
+}
